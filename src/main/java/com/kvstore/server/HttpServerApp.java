@@ -28,18 +28,18 @@ public class HttpServerApp {
             String response = """
                     <html>
                     <body>
-                    <h2>KV Store API Running</h2>
+                    <h2>KV Store</h2>
 
                     <h3>Endpoints:</h3>
 
                     <b>SET:</b><br>
-                    <code>/set?key=a&value=10</code><br><br>
+                    <code>https://kvstore-1.onrender.com/set?key=a&value=10&ttl=9000</code><br><br>
 
                     <b>GET:</b><br>
-                    <code>/get?key=a</code><br><br>
+                    <code>https://kvstore-1.onrender.com/get?key=a</code><br><br>
 
                     <b>DELETE:</b><br>
-                    <code>/del?key=a</code><br><br>
+                    <code>https://kvstore-1.onrender.com/del?key=a</code><br><br>
 
                     </body>
                     </html>
