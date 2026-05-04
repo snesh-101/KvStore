@@ -6,4 +6,4 @@ COPY . .
 
 RUN mvn clean package
 
-CMD ["java", "-jar", "target/kv-store-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/kv-store-1.0-SNAPSHOT-jar-with-dependencies.jar"]
