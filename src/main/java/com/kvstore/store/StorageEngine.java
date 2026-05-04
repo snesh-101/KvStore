@@ -1,5 +1,6 @@
 package com.kvstore.store;
 
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class StorageEngine {
@@ -88,5 +89,9 @@ public class StorageEngine {
      */
     public void clear() {
         store.clear();
+    }
+
+    public Set<String> getAllKeys() {
+        return store.keySet();
     }
 }

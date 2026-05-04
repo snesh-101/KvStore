@@ -6,9 +6,13 @@ F:\backend\kv-store\src\main\java\com\kvstore\store\ExpiryManager.java
 F:\backend\kv-store\src\main\java\com\kvstore\server\ClientHandler.java
 F:\backend\kv-store\src\main\java\com\kvstore\store\StorageEngine.java
 F:\backend\kv-store\src\main\java\com\kvstore\service\KeyValueService.java
+F:\backend\kv-store\src\main\java\com\kvstore\server\GetHandler.java
 F:\backend\kv-store\src\main\java\com\kvstore\store\Test.java
 F:\backend\kv-store\src\main\java\com\kvstore\config\AppConfig.java
 F:\backend\kv-store\src\main\java\com\kvstore\controller\KeyValueController.java
 F:\backend\kv-store\src\main\java\com\kvstore\model\Command.java
 F:\backend\kv-store\src\main\java\com\kvstore\util\Constants.java
+F:\backend\kv-store\src\main\java\com\kvstore\server\QueryParser.java
+F:\backend\kv-store\src\main\java\com\kvstore\server\SetHandler.java
+F:\backend\kv-store\src\main\java\com\kvstore\server\DeleteHandler.java
 F:\backend\kv-store\src\main\java\com\kvstore\parser\CommandParser.java

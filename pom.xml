@@ -27,7 +27,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>com.kvstore.store.Test</mainClass>
+                  <mainClass>com.kvstore.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
